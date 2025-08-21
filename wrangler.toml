@@ -1,0 +1,3 @@
+name = "corpr"
+main = "index.js"
+compatibility_date = "2023-04-17"
